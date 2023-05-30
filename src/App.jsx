@@ -1,6 +1,6 @@
 import "./app.css";
 import { useEffect, useMemo, useState } from "react";
-import Start from "./components/Start";
+import Start from "./components/start";
 import Timer from "./components/Timer";
 import Trivia from "./components/Trivia";
 
